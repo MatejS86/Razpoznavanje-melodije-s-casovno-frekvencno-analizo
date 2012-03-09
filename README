@@ -1,0 +1,17 @@
+Ime skupine: 
+Razpoznavanje melodije s časovno-frekvenčno analizo
+
+Kratek opis: 
+Glasbenik želi računalniški program v katerem preveri ali je bila njegova melodija zaigrana pravilno. 
+Ko programu predvaja (razpoznavanje se ne izvaja realnočasovno) preprosto monofonično melodijo, 
+se ta s pomočjo časovno-frekvenčne analize prebere ter določi tonaliteto in dolžino tona. 
+S pomočjo tega izpiše v notnem črtovju zaigrano melodijo.
+Za časovno-frekvenčno analizo si program pomaga z matematičnim programom Matlab.
+
+Projekt je del praktičnega dela diplomske naloge, zato ga izvajam sam.
+
+Ime in priimek vodje skupine:
+Matej Strašek
+
+Ime in priimek člana s spiskom znanj:
+Matej Strašek - C#,C++,JAVA,php,mysql,MATLAB
